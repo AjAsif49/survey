@@ -1,0 +1,77 @@
+2022-03-28T08:34:35+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T08:34:39+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T12:14:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2022-03-28T12:21:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:21:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:21:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:26:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:28:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:28:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:28:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T12:28:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\survey\wp-includes\wp-db.php on line 2162
+
+2022-03-28T16:29:31+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T16:32:22+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T16:33:31+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T16:34:53+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_license_key() in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php:59
+Stack trace:
+#0 C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php(79): ElementorPro\Core\App\Modules\KitLibrary\Module->add_license_to_connect_info(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#1 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): ElementorPro\Core\App\Modules\KitLibrary\Module->ElementorPro\Core\App\Modules\KitLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#2 C:\xampp\htdocs\survey\wp-includes\plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(405): apply_filters('elementor/conne...', Array, Object(Elementor\Core\Common\Modules\Connect\Apps\Library))
+#4 C:\xampp\htdocs\survey\wp-content\plugins\ in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\core\app\modules\kit-library\module.php on line 59
+
+2022-03-28T18:22:54+00:00 CRITICAL Uncaught Error: Call to a member function save_display_settings_data() on bool in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\modules\popup\module.php:98
+Stack trace:
+#0 [internal function]: ElementorPro\Modules\Popup\Module->save_display_settings(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 C:\xampp\htdocs\survey\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 C:\xampp\htdocs\survey\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\survey\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\survey\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in C:\xampp\htdocs\survey\wp-content\plugins\pro-elements\modules\popup\module.php on line 98
+
